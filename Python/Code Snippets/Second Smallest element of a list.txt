@@ -1,0 +1,2 @@
+#program to find the second smallest element of a list
+l = eval(input())

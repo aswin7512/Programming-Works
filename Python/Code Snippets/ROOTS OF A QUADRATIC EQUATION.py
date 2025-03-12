@@ -1,0 +1,12 @@
+import math
+print("FORMAT OF A QUADRATIC EQUATION: ax²+bx+c=0")
+a=int(input("ENTER THE COEFFICIENT 'a': "))
+b=int(input("ENTER THE COEFFICIENT 'b': "))
+c=int(input("ENTER THE COEFFICIENT 'c': "))
+d=(b**2)-(4*a*c)
+y=math.sqrt(d)
+x1=(-b+y)/(2*a)
+x2=(-b-y)/(2*a)
+print("ROOTS OF THE GIVEN COEFFICIENTS ARE")
+print(x1)
+print(x2)
