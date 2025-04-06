@@ -1,1 +1,0 @@
- So I am recording this audio to just check out the python module whisper so that's it.
